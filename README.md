@@ -14,7 +14,7 @@ This project involves the design and structural analysis of a generic industrial
 ## ⚙️ Key Design Features (The "Why")
 
 ### 1. Haunched Eaves Connection
-![Haunch Detail](Assets/Screenshot_Haunch.png)
+![Haunch Detail](Assets/Screenshot_2025-11-29_070925.png)
 * **Problem:** The connection between the column and rafter experiences the highest **Bending Moment** in the entire structure.
 * **Solution:** Designed a tapered haunch to increase the beam depth at the joint. This significantly reduces stress concentration and allows for a lighter rafter section elsewhere.
 
