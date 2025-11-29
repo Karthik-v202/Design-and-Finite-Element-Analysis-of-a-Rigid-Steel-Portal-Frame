@@ -39,6 +39,6 @@ This project involves the design and structural analysis of a generic industrial
 - `Drawings/`: 2D Fabrication prints (PDF).
 
 ## 👨‍💻 Author
-**[Your Name]**
+**Karthik V S**
 Mechanical Engineering Undergraduate
-[Link to your LinkedIn Profile]
+https://www.linkedin.com/in/karthik-v-s-926b34335
