@@ -1,6 +1,6 @@
 # Design and Finite Element Analysis of a Rigid Steel Portal Frame 🏗️
 
-![Project Banner](Assets/Screenshot_Iso_View.png)
+![Project Banner](Assets/Assembly)
 *An industry-standard portal frame designed in SolidWorks, featuring moment-resisting connections and optimized load paths.*
 
 ## 🛠️ Tech Stack
