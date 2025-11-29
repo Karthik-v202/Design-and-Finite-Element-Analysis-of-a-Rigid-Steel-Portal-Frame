@@ -19,7 +19,7 @@ This project involves the design and structural analysis of a generic industrial
 * **Solution:** Designed a tapered haunch to increase the beam depth at the joint. This significantly reduces stress concentration and allows for a lighter rafter section elsewhere.
 
 ### 2. Internal Column Stiffeners (Continuity Plates)
-![Stiffener Detail](Assets/Screenshot_Stiffener.png)
+![Stiffener Detail](Assets/Stiffners)
 * **Problem:** The compression force from the haunch flange pushes directly against the column web, creating a risk of **Local Web Buckling**.
 * **Solution:** Modeled horizontal continuity plates inside the column to bridge the load path and transfer forces effectively.
 
